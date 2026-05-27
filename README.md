@@ -1,6 +1,6 @@
 # UK AI Work Explorer
 
-![UK AI Work Explorer screenshot](docs/app-screenshot.png)
+![UK AI Work Explorer screenshot](App%20shot.jpg)
 
 UK AI Work Explorer is a narrative data app for understanding where artificial intelligence is most visible in the UK labour market, which occupations appear most exposed to AI-driven change, and which sectors show the strongest signs of AI intensity. It is designed to make official UK labour-market evidence easier to scan, compare, and interpret through a treemap interface rather than a dense appendix of tables.
 
@@ -31,6 +31,12 @@ The app is intentionally strict about source legitimacy.
 - UK digital-access context is drawn from the ONS bulletin Internet access - households and individuals, Great Britain: 2020.
 
 This matters because the app is not trying to guess the future from scraped job ads or proprietary black-box scores. Its job is to make published UK evidence legible and interactive.
+
+## Data Sources
+
+- [DSIT / Warwick Institute for Employment Research: AI Skills for Life and Work: Labour market and skills projections (2026)](https://www.gov.uk/government/publications/ai-skills-for-life-and-work-labour-market-and-skills-projections/ai-skills-for-life-and-work-labour-market-and-skills-projections)
+- [ONS: Internet access - households and individuals, Great Britain (2020)](https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2020)
+- [Nomis API documentation](https://www.nomisweb.co.uk/api/v01/help)
 
 ## Current Scope
 
